@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="usernameEditText">Username</string>
+    <string name="passwordEditText">Password</string>
+    <string name="registerConfirmPasswordEditText">Comfirm Password</string>
+    <string name="loginButton">Login</string>
+    <string name="registerButton">Register</string>
+
+    <string name="fieldIsEmpty">Please fill in all fields</string>
+    <string name="loginSuccessfully">Login successful</string>
+    <string name="loginFailed">Invalid username or password</string>
+    <string name="registerSuccessfully">Register successful</string>
+    <string name="registerFailed">Register Failed</string>
+    <string name="confirmPasswordFailed">Passwords do not match</string>
+</resources>

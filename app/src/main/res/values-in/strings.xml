@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="usernameEditText">Nama Pengguna</string>
+    <string name="passwordEditText">Kata Sandi</string>
+    <string name="registerConfirmPasswordEditText">Konfirmasi Kata Sandi</string>
+    <string name="loginButton">Masuk</string>
+    <string name="registerButton">Daftar</string>
+
+    <string name="fieldIsEmpty">Tolong isi semua kolom</string>
+    <string name="loginSuccessfully">Berhasil Masuk!</string>
+    <string name="loginFailed">Nama pengguna atau kata sandi tidak benar</string>
+    <string name="registerSuccessfully">Pendaftaran Berhasil</string>
+    <string name="registerFailed">Pendaftaran Gagal</string>
+    <string name="confirmPasswordFailed">Konfirmasi Password tidak sesuai</string>
+</resources>
